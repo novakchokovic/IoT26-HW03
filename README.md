@@ -93,7 +93,7 @@ sudo apt install libcamera-apps -y
 
 ### 🎞️ 1분 대기 후 움직임 테스트 GIF
 
-![Motion Wait Test](images/motion_wait_test.gif)
+![Motion Wait Test](gifs/motion_wait_test.gif)
 
 ---
 
@@ -189,7 +189,7 @@ python3 motion_camera.py
 
 ### 🎞️ 카메라 동작 GIF
 
-![Motion Camera Demo](images/motion_camera_demo.gif)
+![Motion Camera Demo](gifs/motion_camera_demo.gif)
 
 ---
 
